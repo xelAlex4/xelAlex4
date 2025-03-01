@@ -15,6 +15,11 @@ Hey, I'm Alex! 👋<br><br>I'm a Computer Science student at Rutgers, always loo
 </div>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xelalex4/xelalex4/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xelalex4/xelalex4/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xelalex4/xelalex4/output/github-snake.svg" />
+</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
